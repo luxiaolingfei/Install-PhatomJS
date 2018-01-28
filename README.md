@@ -1,2 +1,2 @@
 # Install-PhatomJS
-Install PhatomJS for Ubuntu
+Install PhatomJS v2.1.1 for Ubuntu
